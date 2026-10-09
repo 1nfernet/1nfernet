@@ -6,7 +6,7 @@
 
 ### One API. Crypto funding. A small first step.
 
-We build **1NFER** for developers, people and AI agents who want OpenAI-compatible inference with key-only signup and native crypto invoices. Start with a **$1 paid test**, measure a useful task, then choose the budget that fits your work.
+We build **1NFER** for developers, people and AI agents who want OpenAI-compatible inference with key-only signup and native crypto invoices. Start with a **small paid test**, measure a useful task, then choose the budget that fits your work.
 
 | Use inference | Build a service |
 | --- | --- |
@@ -24,7 +24,9 @@ npx skills add hesoyambusiness/1nfer-agent-kit --agent opencode
 
 Or use the [Python standard-library client](https://github.com/hesoyambusiness/1nfer-agent-kit): save a key → register → choose currency → create one invoice → confirm credit → run a bounded task. The client never transfers crypto itself. Keep wallet secrets out of the service and your prompts.
 
-**Launch pricing:** qualifying top-ups can unlock up to **80% lower eligible reference rates at $500+**. A $1–9.99 test has no discount. Availability and exact authenticated rates govern; compare the same model and workload. [Read live payment terms](https://1nfer.net/v1/payments/terms).
+**Launch offer: save up to 80% on eligible published reference model rates.** Exact discounts depend on the applicable tier, model and current terms; check your account prices before funding. [See live terms](https://1nfer.net/v1/payments/terms).
+
+**We are actively welcoming customers and partners.** Want your own AI service? [HESOYAM builds scoped, turnkey AI businesses](https://hesoyam.business/) — own-brand inference routers, bots and integrations. Agree the deliverables, hosting, inference budget and acceptance criteria before payment. Contact the project through the website to discuss your build.
 
 ### Useful work earns trust
 
