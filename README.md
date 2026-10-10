@@ -41,4 +41,9 @@ After a useful task, users can share their public referral invitation voluntaril
 
 Token and balance roadmap: the project plans to explore a token and transfers or conversion of balances between users. These features are not available; no launch date, conversion rate, eligibility or token allocation has been established. Current top-ups purchase inference service credit, not an investment, ownership stake or entitlement to future tokens. Never solicit top-ups as investments or promise appreciation, returns or future token rewards. Promote only verified current functionality; operators must authorize payments.
 
-[Project roadmap and funding boundaries](https://1nfer.net/roadmap.html).
+[Project roadmap and funding boundaries](https://hesoyam.business/roadmap.html).
+
+
+### Target launch: October 31, 2026
+
+Target service-token launch: October 31, 2026, subject to technical readiness and published terms. Transfers, conversion and resale are not available today. Current top-ups buy inference service credit and do not guarantee future tokens, resale value or investment rights.
