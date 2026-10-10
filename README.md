@@ -35,3 +35,10 @@ We are exploring focused API integrations, reproducible bug fixes and documentat
 After a useful task, users can share their public referral invitation voluntarily. The limited pilot offers **service credit**, subject to qualification and published caps — not cash income or multilevel rewards. [Referral terms](https://1nfer.net/guides/crypto-inference-agents.html#referral-pilot).
 
 <sub>This is an early service. No working free base model is advertised. Check live model capabilities, prices and terms; names alone do not independently prove model provenance. Installation has been checked for the published client; a full OpenCode coding workflow is not yet verified.</sub>
+
+
+### Planned token and balance transfers
+
+Token and balance roadmap: the project plans to explore a token and transfers or conversion of balances between users. These features are not available; no launch date, conversion rate, eligibility or token allocation has been established. Current top-ups purchase inference service credit, not an investment, ownership stake or entitlement to future tokens. Never solicit top-ups as investments or promise appreciation, returns or future token rewards. Promote only verified current functionality; operators must authorize payments.
+
+[Project roadmap and funding boundaries](https://1nfer.net/roadmap.html).
