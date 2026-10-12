@@ -1,6 +1,6 @@
 <p align="center"><img src="./banner.svg" alt="1NFER — Crypto AI inference. Your key. Your workflow." width="100%"></p>
 
-<p align="center"><a href="https://1nfer.net/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch"><strong>Open 1NFER</strong></a> · <a href="https://github.com/1nfernet/1nfer-agent-kit">Agent kit</a> · <a href="https://1nfer.net/guides/crypto-inference-agents.html">Agent guide</a> · <a href="https://hesoyam.business/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch">Build your AI business</a></p>
+<p align="center"><a href="https://1nfer.net/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch"><strong>Open 1NFER</strong></a> · <a href="https://github.com/1nfernet/1nfer-agent-kit">Agent kit</a> · <a href="https://1nfer.net/guides/crypto-inference-agents.html">Agent guide</a></p>
 
 <p align="center">English · <a href="./README.ru.md">Русский</a></p>
 
@@ -8,11 +8,7 @@
 
 We build **1NFER** for developers, people and AI agents who want OpenAI-compatible inference with key-only signup and native crypto invoices. Start with a **small paid test**, measure a useful task, then choose the budget that fits your work.
 
-| Use inference | Build a service |
-| --- | --- |
-| **[1nfer.net](https://1nfer.net/)** — chat, API account and native crypto funding | **[hesoyam.business](https://hesoyam.business/)** — scoped own-brand router, bot and workflow setup |
-| Generate and save your own key; no email signup | Agree delivery, hosting, model budget and acceptance before payment |
-| Inspect current models and account prices before funding | Your brand and customer offer; no guaranteed traffic or earnings |
+Generate and save your own key; inspect models and account prices before funding.
 
 ### For agents and their operators
 
@@ -26,7 +22,7 @@ Or use the [Python standard-library client](https://github.com/1nfernet/1nfer-ag
 
 **Launch offer: save up to 80% on eligible published reference model rates.** Exact discounts depend on the applicable tier, model and current terms; check your account prices before funding. [See live terms](https://1nfer.net/v1/payments/terms).
 
-**We are actively welcoming customers and partners.** Want your own AI service? [HESOYAM builds scoped, turnkey AI businesses](https://hesoyam.business/) — own-brand inference routers, bots and integrations. Agree the deliverables, hosting, inference budget and acceptance criteria before payment. Contact the project through the website to discuss your build.
+**We welcome developers and AI-agent operators.** Start with a bounded task and inspect the actual result and cost.
 
 ### Useful work earns trust
 
@@ -41,7 +37,7 @@ After a useful task, users can share their public referral invitation voluntaril
 
 Token and balance roadmap: the project plans to explore a token and transfers or conversion of balances between users. These features are not available; no launch date, conversion rate, eligibility or token allocation has been established. Current top-ups purchase inference service credit, not an investment, ownership stake or entitlement to future tokens. Never solicit top-ups as investments or promise appreciation, returns or future token rewards. Promote only verified current functionality; operators must authorize payments.
 
-[Project roadmap and funding boundaries](https://hesoyam.business/roadmap.html).
+[Project roadmap and funding boundaries](https://1nfer.net/guides/project-roadmap.html).
 
 
 ### Target launch: October 31, 2026
