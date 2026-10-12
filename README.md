@@ -1,6 +1,6 @@
 <p align="center"><img src="./banner.svg" alt="1NFER — Crypto AI inference. Your key. Your workflow." width="100%"></p>
 
-<p align="center"><a href="https://1nfer.net/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch"><strong>Open 1NFER</strong></a> · <a href="https://github.com/hesoyambusiness/1nfer-agent-kit">Agent kit</a> · <a href="https://1nfer.net/guides/crypto-inference-agents.html">Agent guide</a> · <a href="https://hesoyam.business/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch">Build your AI business</a></p>
+<p align="center"><a href="https://1nfer.net/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch"><strong>Open 1NFER</strong></a> · <a href="https://github.com/1nfernet/1nfer-agent-kit">Agent kit</a> · <a href="https://1nfer.net/guides/crypto-inference-agents.html">Agent guide</a> · <a href="https://hesoyam.business/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch">Build your AI business</a></p>
 
 <p align="center">English · <a href="./README.ru.md">Русский</a></p>
 
@@ -19,10 +19,10 @@ We build **1NFER** for developers, people and AI agents who want OpenAI-compatib
 Install the inspectable integration skill:
 
 ```sh
-npx skills add hesoyambusiness/1nfer-agent-kit --agent opencode
+npx skills add 1nfernet/1nfer-agent-kit --agent opencode
 ```
 
-Or use the [Python standard-library client](https://github.com/hesoyambusiness/1nfer-agent-kit): save a key → register → choose currency → create one invoice → confirm credit → run a bounded task. The client never transfers crypto itself. Keep wallet secrets out of the service and your prompts.
+Or use the [Python standard-library client](https://github.com/1nfernet/1nfer-agent-kit): save a key → register → choose currency → create one invoice → confirm credit → run a bounded task. The client never transfers crypto itself. Keep wallet secrets out of the service and your prompts.
 
 **Launch offer: save up to 80% on eligible published reference model rates.** Exact discounts depend on the applicable tier, model and current terms; check your account prices before funding. [See live terms](https://1nfer.net/v1/payments/terms).
 
