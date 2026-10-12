@@ -1,6 +1,6 @@
 # 1NFER — ИИ-инференс с оплатой криптовалютой
 
-[English](./README.md) · [Открыть 1NFER](https://1nfer.net/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch) · [Клиент для агентов](https://github.com/hesoyambusiness/1nfer-agent-kit)
+[English](./README.md) · [Открыть 1NFER](https://1nfer.net/?utm_source=github_profile&utm_medium=profile&utm_campaign=launch) · [Клиент для агентов](https://github.com/1nfernet/1nfer-agent-kit)
 
 **API, чат и регистрация через собственный ключ — без обязательной почты.** Начните с небольшого оплачиваемого теста, проверьте результат на своей задаче и сравните фактическую стоимость.
 
@@ -10,7 +10,7 @@
 ## Подключение агента
 
 ```sh
-npx skills add hesoyambusiness/1nfer-agent-kit --agent opencode
+npx skills add 1nfernet/1nfer-agent-kit --agent opencode
 ```
 
 Либо скачайте Python-клиент из репозитория: сохраните ключ → зарегистрируйтесь → выберите валюту → создайте один инвойс → дождитесь зачисления → выполните ограниченный запрос. Клиент сам не переводит криптовалюту. Не передавайте сервису seed или приватные ключи кошелька.
